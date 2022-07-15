@@ -41,7 +41,4 @@ public class TryProcessing extends PApplet{
         size(WIDTH, HEIGHT);
     }
 
-    @Override
-    public void setup() {
-    }
 }
